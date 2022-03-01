@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copie of a letter, sent from the Commander in Chiefe, of the town and port of Plymouth, to the Honourable William Lenthall, Esq. Speaker of the House of Commons: concerning the late great fight at Mount Stanford. Together, with a true relation of the persons there killed; and what condition the said towne and port now are in. Also a copie of the vovv and covenant, which all the deputy lieutenants, commanders, townesmen, and souldiers took, to live and dye in defence of the said town. Ordered by the Commons assembled in Parliament, that this letter and protestation, be forthwith printed and published. Hen. Elsynge Cler. Parl. D. Com.</title>
+            <author>Wardlace, James.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97156</idno>
+            <idno type="STC">Wing W842</idno>
+            <idno type="STC">Thomason E76_11</idno>
+            <idno type="STC">ESTC R21055</idno>
+            <idno type="EEBO-CITATION">99869337</idno>
+            <idno type="PROQUEST">99869337</idno>
+            <idno type="VID">121712</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97156)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121712)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13:E76[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copie of a letter, sent from the Commander in Chiefe, of the town and port of Plymouth, to the Honourable William Lenthall, Esq. Speaker of the House of Commons: concerning the late great fight at Mount Stanford. Together, with a true relation of the persons there killed; and what condition the said towne and port now are in. Also a copie of the vovv and covenant, which all the deputy lieutenants, commanders, townesmen, and souldiers took, to live and dye in defence of the said town. Ordered by the Commons assembled in Parliament, that this letter and protestation, be forthwith printed and published. Hen. Elsynge Cler. Parl. D. Com.</title>
+                  <author>Wardlace, James.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husbands, and are to be sold at his shop in the middle Temple,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Novemb. 91 [sic] 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to James Wardlace.</note>
+                  <note>Annotation on Thomason copy: following Novemb. 91 in imprint, Thomason has inserted "19th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Plymouth (England) --  History, Military --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:121712:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER, Sent from the Commander in Chiefe, of the Town and Port of PLYMOVTH, To the Honourable <hi>William Lenthall,</hi> 
+               <abbr>Eſq</abbr> Speaker of the Houſe of Commons: Concerning the late great fight at <hi>Mount Stanford.</hi>
+            </p>
+            <p>Together, With a true Relation of the Perſons there killed; and what condition the ſaid Towne and Port now are in.</p>
+            <p>Alſo Copie of the Vovv and Covenant, which all the Deputy Lieutenants, Com<g ref="char:EOLhyphen"/>manders, Towneſmen, and Souldiers took, to live and dye in defence of the ſaid Town.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered by the Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, that this Letter and Proteſtation, be forth<g ref="char:EOLhyphen"/>with printed and publiſhed.</p>
+                        <closer>
+                           <signed>
+                              <hi>Hen. Elſynge</hi> Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>LONDON, Printed for <hi>Edward Huſbands,</hi> and are to be ſold at his ſhop in the middle Temple. <hi>Novemb.</hi> 91 <add>19<hi rend="sup">th</hi>
+               </add> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:121712:2"/>
+            <pb n="1" facs="tcp:121712:2"/>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>SInce my laſt unto you of the 28 of <hi>October,</hi> 1643. The Enemy hath preſſed hard upon us, againſt <hi>Mount Stanford</hi> Work, with their great Ordnance, and began to play againſt the ſame on Sabbath laſt, being the fifth of <hi>November;</hi> ho<g ref="char:EOLhyphen"/>ping, by that meanes to performe what the hel<g ref="char:EOLhyphen"/>liſh Plot of the Gunpowder Treaſon ſhould have done: they played ſo hard againſt it all that day with Batteries, and it being not any way made to en<g ref="char:EOLhyphen"/>dure the ſame, that ſome of our Gunnes they diſ<g ref="char:EOLhyphen"/>mounted, and ſome clogged with earth, falling downe upon them, that we could not make uſe of any of them; ſo that on the morrow they ſurroun<g ref="char:EOLhyphen"/>ded the Worke; fell on with all their ſtrength of Horſe and Foot upon all quarters: yet the chiefe Commander of the Fort behaved himſelfe ſo brave<g ref="char:EOLhyphen"/>ly, that three times he forced them to retreat; and could we have got any indifferent reliefe over the Water in any reaſonable time, wee had kept the Fort. Yet nevertheleſſe the Enemy ſent a Parley three times before the Captaine would except of it. Then Conditions were made, That all Souldiers ſhould march away with their Armes, flying Co<g ref="char:EOLhyphen"/>lours, and Bullet in their mouths; and that the Cap<g ref="char:EOLhyphen"/>taine ſhould have any one peece of Ordnance away, that he would make choice of. The Enemy loſt foure or five Captaines before the Fort; beſides di<g ref="char:EOLhyphen"/>verſe other Officers, and many Souldiers, We loſt at that time no Officer of note, only one Lieutenant
+<pb n="2" facs="tcp:121712:3"/>killed with a great ſhot, and divers Souldiers taken priſoners, which were all exchanged the next day, for ſome of their owne men that we had formerly taken. I beleeve they will not brag much of their victory by getting that Work, for we are now bet<g ref="char:EOLhyphen"/>ter and in more ſafety in the Towne then before. For we were forced to keepe a Leager there, and continually to relieve them; ſo that our men were forced to very hard duty, to keepe all the other Workes and Fortifications belonging to the Town. The Enemy having the Worke yeilded to them, thoſe of the Enemies party in the Town (as it muſt be expected in all places are ſome) began to get cou<g ref="char:EOLhyphen"/>rage, our own friends doubtfull; and I believe, the Nutraliſts do deſire that the Town might be delive<g ref="char:EOLhyphen"/>red up: Whereupon, for feare that either through treachery of the Towneſmen, or for want of experi<g ref="char:EOLhyphen"/>enced men, I ſeazed the Fort and Iland, the Caſtle and Magazine, that in caſe the Towne ſhould bee forced and over-powred with ſtrength by the Ene<g ref="char:EOLhyphen"/>my, and knowing this place of ſuch great concerne<g ref="char:EOLhyphen"/>ment, that through Gods aſsiſtance I would keepe them till ſupplies and reliefe come. Whereupon I have put them into the hands of ſuch as will keepe them for the King and Parliament, with the laſt drop of blood in their bodies. Our friends began then to be incouraged, our enemies both within and without us to be diſmayed, thinking that there was no hope of ſurrendering the Towne: ſo ever ſince, the Towneſmen and all Inhabitants have been more forward to contribute their beſt aſſiſtance then for<g ref="char:EOLhyphen"/>merly many have done. And upon Thurſday laſt
+<pb n="3" facs="tcp:121712:3"/>after Prayer and our mornings beſt preparation for the ſame, my ſelfe and Mr. Major, took a Vow and Proteſtation, which I have here ſent incloſed, and cauſed it to be preſented to all Gentlemen, the Com<g ref="char:EOLhyphen"/>mittee of Parliament, the Deputy Lieutenants, all Towneſmen, all Officers and Souldiers, and all In<g ref="char:EOLhyphen"/>habitants whatſoever; which I finde was generally taken with great joy and cheerefulneſſe. I hope the honourable Houſes of Parliament are not unminde<g ref="char:EOLhyphen"/>full of us; yet I never received any inſtructions from them ſince the fifth of September, being the time that I departed from <hi>London,</hi> although I have ſent foure ſeverall Packets concerning divers and ſpeciall affaires. I humbly crave that with all ſpeed I may have Powder, Lead, and Match ſent, that I may with honour performe the truſt impoſed upon me. Thus humbly kiſſing your hand, I take leave and reſt,</p>
+            <closer>
+               <dateline>Plymouth <date>11 Novemb. 1643.</date>
+               </dateline>
+               <signed>Your moſt humble Servant to be commanded, <hi>James Wardlace.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="oath">
+            <pb n="4" facs="tcp:121712:4"/>
+            <head>The Vow and Proteſtation.</head>
+            <p>I <hi>A. B.</hi> In the preſence of Al<g ref="char:EOLhyphen"/>mighty God, do vow and proteſt, that I will to the utmoſt of my power, by Gods aſsiſtance, faithfully maintaine and de<g ref="char:EOLhyphen"/>fend the Townes of Plimouth and Stone-howſe, the Fort and Iland, with all the out<g ref="char:EOLhyphen"/>ward Works and Fortifications to the ſame belonging, againſt all Forces now raiſed a<g ref="char:EOLhyphen"/>gainſt the ſaid Townes of Plimouth and Stone-howſe, the Fort and Iland or any Part thereof, or ſhall be raiſed by any Power or Authority whatſoever, without the Conſent and Authority of both houſes of Parliament. Neither will I by way or meanes whatſoever, contrive or conſent to the giving up of the Townes and Fortifications aforeſaid, or any parcell of them, into the hands of any perſon, or perſons vvhatſoever, vvithout the conſent of both Houſes of Parliament, or of ſuch as are Authorized thereunto by them. Neither vvill I by Gods grace raiſe nor conſent to the raiſing of any Force or Tumult, nor vvill I by any vvay or meanes give or yeild to the
+<pb n="5" facs="tcp:121712:4"/>giving of any advice, counſell, or intelligence, to the prejudice of the ſaid Tovvnes and Fortifications either in vvhole or in part: But vvill vvith all poſible ſpeed faithfully diſcover to the Major of Plimouth, and to the Comander in cheife there, vvhatſoever deſigne I ſhall knovv or here of hurtfull thereunto. Neither have I accepted any par<g ref="char:EOLhyphen"/>don or protection, nor will I accept any protection from the Enemy. And this Vovv and Proteſtation I make, vvithout any equi<g ref="char:EOLhyphen"/>vocation and Mentall reſervation vvhatſo<g ref="char:EOLhyphen"/>ever: Beleeving that I cannot be abſolved from this my Vovv and Proteſtation; and vviſhing no bleſsing from God on my ſelfe or my poſterity, If I do not truly and ſincere<g ref="char:EOLhyphen"/>ly performe the ſame. So helpe me GOD.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
